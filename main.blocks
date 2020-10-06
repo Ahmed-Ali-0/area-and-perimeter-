@@ -1,1 +1,6 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="-_Nj}lr}T^b(nL0b_P@0" x="0" y="0"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="DW|%r]MJ53tSY4*@B`Za">Base(a)</variable></variables><block type="pxt-on-start" id="-_Nj}lr}T^b(nL0b_P@0" x="0" y="0"><comment pinned="false" h="236" w="328" relx="10" rely="10">Created by: Ahmed
+Created date:Oct 5, 2020
+
+This program use Area and Perimeter.
+
+</comment><statement name="HANDLER"><block type="gameSplash" id="@T#nr:vks7Trb!{0`7:/"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="title"><shadow type="text" id="Gwc@bxb;d;5-5Z(D}wVa"><field name="TEXT">Let's calculate the area and perimeter of a trapezoid </field></shadow></value></block></statement></block></xml>
